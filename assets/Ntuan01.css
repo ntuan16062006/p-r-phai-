@@ -1,8 +1,8 @@
 body {}
 
-.ntuanftskill {}
+.Ntuanskill {}
 
-.ntuanftskill.outline li {
+.Ntuanftskill.outline li {
     display: inline-block;
     font-size: 17px;
     min-width: 3em;
@@ -14,7 +14,7 @@ body {}
     text-align: center
 }
 
-.ntuanftskill li {
+.Ntuanskill li {
     width: 350px;
     padding: 15px;
     margin: 20px;
@@ -22,7 +22,7 @@ body {}
     box-shadow: 0 0 10px 0px #33FFFF
 }
 
-.ntuantransform:hover {
+.Ntuantransform:hover {
     transform: scale(0.95);
     box-shadow: 0 0 7px 3px #00FFFF
 }
