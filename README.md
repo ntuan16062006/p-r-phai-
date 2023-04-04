@@ -1,7 +1,7 @@
-### Hi there 👋
+### Nhìn Rì
 
 <!--
-**NghiepCoder16/NghiepCoder16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ntuan16062006/ntuan16062006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
